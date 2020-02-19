@@ -1,5 +1,5 @@
 # MC8 Midi Controller
-Firmware for the MC6 MKII Midi Controller
+Firmware for the MC8 Midi Controller
 
 ## How to update your firmware
 https://www.youtube.com/watch?v=wtvX8Y9LzXo
